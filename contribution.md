@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 skjjqcs
+=======
+tdfysc
+>>>>>>> master
